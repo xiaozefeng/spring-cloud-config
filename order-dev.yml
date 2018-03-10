@@ -8,5 +8,5 @@
      url: jdbc:mysql://127.0.0.1:3306/SpringCloud_Sell?characterEncoding=utf-8
    jpa:
      show-sql: true
-env: 
-  test01
+env:
+  test
